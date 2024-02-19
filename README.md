@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Ashmita Dangi</h1>
 <h3 align="center">Aspiring Software Developer </h3>
 
-[dimtn-uT_400x400](https://github.com/ashmita-dangi/ashmita-dangi/assets/133703394/72d36f1f-400e-43d1-b37b-278596a7b8de)
+![dimtn-uT_400x400](https://github.com/ashmita-dangi/ashmita-dangi/assets/133703394/b78f6bed-e32c-4f0c-bca9-348daa773a13)
+
 
 
 - 🌱 Currently honing my skills in **Python, Front-end Development, HTML, CSS, Java Script, SQL, Machine Learning, and generative AI**
