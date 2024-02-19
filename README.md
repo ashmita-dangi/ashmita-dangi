@@ -8,7 +8,7 @@
 
 
 
-- 🌱 Currently honing my skills in **Python, Front-end Development, HTML, CSS, Java Script, SQL, Machine Learning, and generative AI**
+- 🌱 Currently honing my skills in **Python, Front-end Development, HTML, CSS, Java Script, SQL, ML, and genAI**
 
 - 📫 How to reach me **dangiashmita41@gmail.com**
 
