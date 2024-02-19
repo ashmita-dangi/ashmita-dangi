@@ -1,4 +1,5 @@
-![logo](Turquoise Simple Modern Linkedin Banner.png)
+![logo] ![Turquoise Simple Modern Linkedin Banner](https://github.com/ashmita-dangi/ashmita-dangi/assets/133703394/5225a1ab-1fdd-4ab9-9e9c-1b374097b014)
+
 
 <h1 align="center">Hi 👋, I'm Ashmita Dangi</h1>
 <h3 align="center">Aspiring Software Developer </h3>
